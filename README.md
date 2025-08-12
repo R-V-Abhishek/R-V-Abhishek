@@ -88,7 +88,7 @@ When I’m not coding, I’m usually performing on stage as a Carnatic classical
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R-V-Abhishek&show_icons=true&theme=radical" alt="Abhishek's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-V-Abhishek&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=R-V-Abhishek&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-V-Abhishek&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
