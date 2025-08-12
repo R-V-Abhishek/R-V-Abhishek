@@ -7,16 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/R-V-Abhishek?tab=followers">
-    <img src="https://img.shields.io/github/followers/R-V-Abhishek?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=R-V-Abhishek.R-V-Abhishek">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=R-V-Abhishek.R-V-Abhishek" alt="Visitors"/>
-  </a>
-  <a href="https://linkedin.com/in/rvabhishek">
+  <a href="https://linkedin.com/in/r-v-abhishek">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rvabhi2504@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <!-- Add your portfolio link below if available -->
@@ -44,7 +38,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDA-FFB300?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-800080?style=for-the-badge"/>
