@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 380" width="1100" height="380" role="img" aria-labelledby="title desc">
+<title id="title">R V Abhishek — Patterns, signals, and systems.</title>
+<desc id="desc">Portfolio showcase with a conceptual waveform and clusters. Explore machine learning, music, and useful software.</desc>
+<rect width="1100" height="380" rx="6" fill="#F8F9FF"/>
+<rect x=".5" y=".5" width="1099" height="379" rx="6" fill="none" stroke="#C4C5D7"/>
+<text x="44" y="47" font-family="monospace" font-size="13" letter-spacing="3" fill="#1D4ED8">R V ABHISHEK</text>
+<text x="42" y="133" font-family="Georgia,serif" font-size="65" fill="#151C25">Patterns, signals,</text>
+<text x="42" y="205" font-family="Georgia,serif" font-size="65" font-style="italic" fill="#1D4ED8">and systems.</text>
+<text x="44" y="252" font-family="Arial,sans-serif" font-size="18" fill="#434655">Machine learning · music · useful software.</text>
+<rect x="44" y="288" width="239" height="46" rx="2" fill="#1D4ED8"/>
+<text x="63" y="317" font-family="Arial,sans-serif" font-size="16" fill="#FFFFFF">Explore the portfolio</text>
+<path d="M251 318l12-12m-11 0h11v11" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+<rect x="675" y="46" width="381" height="288" fill="#FFFFFF" stroke="#C4C5D7"/>
+<text x="695" y="75" font-family="monospace" font-size="11" letter-spacing="1" fill="#1D4ED8">SIGNAL → STRUCTURE</text>
+<path d="M695 91h341 M695 150h341 M695 200h341" stroke="#C4C5D7" stroke-width=".7"/>
+<path d="M695 151C712 151 717 115 736 115S762 181 783 181S811 108 833 108S862 183 885 183S913 121 936 121S969 168 990 168S1021 132 1036 143" stroke="#1D4ED8" stroke-width="2" fill="none"/>
+<path d="M695 163C754 163 775 130 823 141S890 173 939 146S997 143 1036 151" stroke="#B94B33" stroke-width="1.5" fill="none"/>
+<ellipse cx="778" cy="258" rx="68" ry="38" fill="#EEF4FF" stroke="#1D4ED8" stroke-dasharray="3 5"/>
+<ellipse cx="970" cy="258" rx="58" ry="38" fill="#FFF0E8" stroke="#B94B33" stroke-dasharray="3 5"/>
+<circle cx="725" cy="236" r="3" fill="#1D4ED8"/><circle cx="748" cy="253" r="3" fill="#1D4ED8"/><circle cx="771" cy="270" r="3" fill="#1D4ED8"/><circle cx="794" cy="243" r="3" fill="#1D4ED8"/><circle cx="817" cy="260" r="3" fill="#1D4ED8"/><circle cx="736" cy="277" r="3" fill="#1D4ED8"/><circle cx="759" cy="250" r="3" fill="#1D4ED8"/><circle cx="782" cy="267" r="3" fill="#1D4ED8"/><circle cx="805" cy="240" r="3" fill="#1D4ED8"/><circle cx="828" cy="257" r="3" fill="#1D4ED8"/><circle cx="747" cy="274" r="3" fill="#1D4ED8"/><circle cx="770" cy="247" r="3" fill="#1D4ED8"/><circle cx="793" cy="264" r="3" fill="#1D4ED8"/><circle cx="816" cy="237" r="3" fill="#1D4ED8"/><circle cx="932" cy="236" r="3" fill="#B94B33"/><circle cx="951" cy="249" r="3" fill="#B94B33"/><circle cx="970" cy="262" r="3" fill="#B94B33"/><circle cx="989" cy="275" r="3" fill="#B94B33"/><circle cx="936" cy="244" r="3" fill="#B94B33"/><circle cx="955" cy="257" r="3" fill="#B94B33"/><circle cx="974" cy="270" r="3" fill="#B94B33"/><circle cx="993" cy="239" r="3" fill="#B94B33"/><circle cx="940" cy="252" r="3" fill="#B94B33"/><circle cx="959" cy="265" r="3" fill="#B94B33"/><path d="M851 258h54" stroke="#C4C5D7"/>
+<text x="695" y="317" font-family="monospace" font-size="10" fill="#434655">LISTEN CLOSELY. LOOK FOR CONNECTIONS.</text>
+</svg>
